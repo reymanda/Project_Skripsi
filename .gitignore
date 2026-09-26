@@ -1,0 +1,8 @@
+dataset/
+dataset_split/
+dataset_preprocessed/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
